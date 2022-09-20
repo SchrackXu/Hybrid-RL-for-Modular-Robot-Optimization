@@ -44,7 +44,7 @@ Tensorboard
 Click
 and all other dependencies for mcs repository
 
-#Quick guide
+# Quick guide
 put the folder mpdqn under mcs/mcs 
 Run test demos to check how environment is settled and how parametrized module is established. 
 Run run_fuile to check to training/evaluating result of project experiments. 
